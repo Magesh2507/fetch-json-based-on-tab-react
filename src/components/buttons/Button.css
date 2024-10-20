@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+button{
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: lightseagreen;
+    color: white;
+    border: none;
+    margin: 30px 10px;
+    font-weight: bolder;
+}
+
+button.active{
+    background-color: #0f746f;
+}
+
+.btn-container button{
+    background-color: steelblue;
+    color: white;
+}
+
+.btn-container button.active{
+    background-color: #094576;
+}

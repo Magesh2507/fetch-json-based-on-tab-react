@@ -1,0 +1,100 @@
+ {
+    "sports": [
+        {
+            "tabName": "Football",
+            "content": [
+                {
+                    "name": "Players",
+                    "details": [
+                        { "name": "Lionel Messi", "position": "Forward", "number": 10 },
+                        { "name": "Cristiano Ronaldo", "position": "Forward", "number": 7 }
+                    ]
+                },
+                {
+                    "name": "Matches",
+                    "details": [
+                        { "opponent": "Team A", "date": "2024-10-15", "score": "3-1" },
+                        { "opponent": "Team B", "date": "2024-10-22", "score": "2-2" }
+                    ]
+                }
+            ]
+        },
+        {
+            "tabName": "Basketball",
+            "content": [
+                {
+                    "name": "Players",
+                    "details": [
+                        { "name": "LeBron James", "position": "Forward", "number": 23 },
+                        { "name": "Stephen Curry", "position": "Guard", "number": 30 }
+                    ]
+                },
+                {
+                    "name": "Matches",
+                    "details": [
+                        { "opponent": "Team X", "date": "2024-10-20", "score": "102-98" },
+                        { "opponent": "Team Y", "date": "2024-10-27", "score": "95-101" }
+                    ]
+                }
+            ]
+        },
+        {
+            "tabName": "Tennis",
+            "content": [
+                {
+                    "name": "Players",
+                    "details": [
+                        { "name": "Novak Djokovic", "ranking": 1 },
+                        { "name": "Rafael Nadal", "ranking": 3 }
+                    ]
+                },
+                {
+                    "name": "Matches",
+                    "details": [
+                        { "opponent": "Player A", "date": "2024-10-18", "result": "Won" },
+                        { "opponent": "Player B", "date": "2024-10-25", "result": "Lost" }
+                    ]
+                }
+            ]
+        },
+        {
+            "tabName": "Cricket",
+            "content": [
+                {
+                    "name": "Players",
+                    "details": [
+                        { "name": "Virat Kohli", "role": "Batsman", "runs": 11000 },
+                        { "name": "Jasprit Bumrah", "role": "Bowler", "wickets": 200 }
+                    ]
+                },
+                {
+                    "name": "Matches",
+                    "details": [
+                        { "opponent": "Team C", "date": "2024-10-14", "result": "Won" },
+                        { "opponent": "Team D", "date": "2024-10-21", "result": "Lost" }
+                    ]
+                }
+            ]
+        },
+        {
+            "tabName": "Baseball",
+            "content": [
+                {
+                    "name": "Players",
+                    "details": [
+                        { "name": "Mike Trout", "position": "Center Fielder", "number": 27 },
+                        { "name": "Clayton Kershaw", "position": "Pitcher", "number": 22 }
+                    ]
+                },
+                {
+                    "name": "Matches",
+                    "details": [
+                        { "opponent": "Team E", "date": "2024-10-16", "score": "5-3" },
+                        { "opponent": "Team F", "date": "2024-10-23", "score": "7-4" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+

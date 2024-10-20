@@ -1,0 +1,13 @@
+table{
+    margin-left: 120px;
+}
+th{     
+    color: antiquewhite;
+    text-transform:uppercase;
+    background-color: midnightblue;
+}
+table,td,th,tr{
+    border-collapse: collapse;
+    padding: 10px 15px;
+    border: 1px solid gray;
+}
