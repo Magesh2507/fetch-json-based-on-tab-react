@@ -28,3 +28,15 @@ button.active{
 .btn-container button.active{
     background-color: #094576;
 }
+
+@media only screen and (max-width:768px) {
+    button {
+        margin-bottom: 10px !important;
+
+    }
+
+    .btn-container {
+        margin: 10px 50px !important;
+
+    }
+}
